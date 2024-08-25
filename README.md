@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/vivekPatil45/ChatSphere/tree/main">
-    <img src="https://github.com/vivekPatil45/ChatSphere/blob/main/client/public/vite.svg" height="96">
+  <a href="https://github.com/codewithEvilxd/ChatSphere/tree/main">
+    <img src="https://github.com/codewithEvilxd/ChatSphere/blob/main/client/public/vite.svg" height="96">
     <h3 align="center">ChatSphere: Realtime Chat Application</h3>
   </a>
 </p>
@@ -64,7 +64,7 @@ CLOUDINARY_API_SECRET=""
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vivekPatil45/ChatSphere.git
+   git clone https://github.com/codewithEvilxd/ChatSphere.git
    cd ChatSphere
 
 2. **Install dependencies for backend:**
@@ -100,8 +100,4 @@ CLOUDINARY_API_SECRET=""
 ## Deployment
 
 Deploy the `dist` directory from the `client` folder to your hosting platform of choice. Ensure that your backend server is also deployed and properly configured.
-
-- **Live Link**: [ChatSphere](https://chat-sphere-jet.vercel.app)
-
-For more details, visit the [ChatSphere GitHub repository](https://github.com/vivekPatil45/ChatSphere/tree/main).
 
