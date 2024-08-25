@@ -1,0 +1,26 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+>
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8338ec;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0e0e0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#grad1)" />
+  <path
+    d="M20 24C20 22.3431 21.3431 21 23 21H41C42.6569 21 44 22.3431 44 24V36C44 37.6569 42.6569 39 41 39H28L22 45V39H23C21.3431 39 20 37.6569 20 36V24Z"
+    fill="#8338ec"
+    stroke="#6c1f6c"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="26" cy="30" r="4" fill="#fff" />
+  <circle cx="32" cy="30" r="4" fill="#fff" />
+  <circle cx="38" cy="30" r="4" fill="#fff" />
+</svg>
